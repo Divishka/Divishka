@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Game Project
 - 📫 How to reach me vk.com/awhana
 
-<!-- ![awhana's stats](https://badge42.herokuapp.com/api/stats/awhana) -->
+![awhana's stats](https://badge42.herokuapp.com/api/stats/awhana)
