@@ -3,7 +3,8 @@
 В данный момент я учусь в "<a href = "https://21-school.ru">Школе 21</a>" (франшиза Ecole 42)
 
 Я умею:
-![](https://img.shields.io/badge/C++-OOP-9cf)
+[](https://img.shields.io/badge/?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/C++-OOP-00EEFF)
 ![](https://img.shields.io/badge/Git-General-9D9D9D)
 ![](https://img.shields.io/badge/English-Intermediate-FF2D00)
 ![](https://img.shields.io/badge/UE-C++-000000)
