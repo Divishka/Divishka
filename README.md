@@ -6,9 +6,9 @@
 ![](https://img.shields.io/badge/C++-OOP-9cf)
 ![](https://img.shields.io/badge/Git-General-9D9D9D)
 ![](https://img.shields.io/badge/English-Intermediate-FF2D00)
-![](https://img.shields.io/badge/UE-C++-BDBF00)
-![](https://img.shields.io/badge/UE-Sound-BDBF00)
-![](https://img.shields.io/badge/UE-Materials-BDBF00)
+![](https://img.shields.io/badge/UE-C++-000000)
+![](https://img.shields.io/badge/UE-Sound-000000)
+![](https://img.shields.io/badge/UE-Materials-000000)
 
 
 За все время кодинга я написал много проектов: <a href = "https://github.com/Divishka/school21_projects">портфолио</a>
