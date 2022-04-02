@@ -3,6 +3,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">C++/UE engineer</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - 👋 Hi, I’m @Divishka
 - 👀 I’m interested in leraning
 - 🌱 I’m currently learning in School 21
