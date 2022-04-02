@@ -4,6 +4,12 @@
 
 Я умею:
 ![](https://img.shields.io/badge/C++-OOP-9cf)
+![](https://img.shields.io/badge/Git-General-9cf)
+![](https://img.shields.io/badge/English-Intermediate-FF2D00)
+![](https://img.shields.io/badge/UE-C++-9cf)
+![](https://img.shields.io/badge/UE-Sound-9cf)
+![](https://img.shields.io/badge/UE-Materials-9cf)
+
 
 За все время кодинга я написал много проектов: <a href = "https://github.com/Divishka/school21_projects">портфолио</a>
 
