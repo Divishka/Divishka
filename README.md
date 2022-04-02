@@ -2,6 +2,11 @@
 
 В данный момент я учусь в "<a href = "https://21-school.ru">Школе 21</a>" (франшиза Ecole 42)
 
+Я умею:
+[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+
 За все время кодинга я написал много проектов: <a href = "https://github.com/Divishka/school21_projects">портфолио</a>
 
 <!--<a href="https://github.com/Divishka/school21_projects">
