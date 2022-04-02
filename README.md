@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/English-Intermediate-FF2D00)
 ![](https://img.shields.io/badge/UE-C++-000000)
 ![](https://img.shields.io/badge/UE-Sound-000000)
-![](https://img.shields.io/badge/UE-Materials-000000)
+![](https://img.shields.io/badge/UE-General-000000)
 
 
 За все время кодинга я написал много проектов: <a href = "https://github.com/Divishka/school21_projects">портфолио</a>
