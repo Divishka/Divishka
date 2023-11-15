@@ -1,4 +1,4 @@
-Мои навыки:
+My skills:
 [](https://img.shields.io/badge/?style=flat&logoColor=white&color=white)
 ![](https://img.shields.io/badge/C++-OOP-00EEFF)
 ![](https://img.shields.io/badge/Git-General-9D9D9D)
