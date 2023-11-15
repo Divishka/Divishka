@@ -8,7 +8,7 @@ My skills:
 ![](https://img.shields.io/badge/UE-General-000000)
 
 
-Coding Projects <a href = "https://github.com/Divishka/school21_projects">портфолио</a>
+Coding Projects <a href = "https://github.com/Divishka/school21_projects">portfolio</a>
 
 <!--<a href="https://github.com/Divishka/school21_projects">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Divishka&repo=projects&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
